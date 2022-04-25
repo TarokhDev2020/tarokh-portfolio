@@ -1,0 +1,400 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Tarokh Mohammadi. Highly motivated iOS and full stack web developer creating intuitive and sleek iOS and web app experiences with modern and clean code. Self-driven and always learning because it never stops. Looking to join the right team to put my skills to use.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Clima",
+        "startDate": "2020",
+        "description": "Clima is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Rio? Clima is here to help.",
+        "images": [
+          "images/programming/swift01.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/Clima-for-iOS",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          }
+        ]
+      },
+      {
+        "title": "ExpenseTracker - SwiftUI",
+        "startDate": "2020",
+        "description": "With ExpenseTracker you can easily manage and record your expenses!",
+        "images": [
+          "images/programming/swift.jpeg"
+        ],
+        "url": "https://github.com/TarokhDev2020/ExpenseTracker-for-SwiftUI",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          }
+        ]
+      },
+      {
+        "title": "Unsplash",
+        "startDate": "2020",
+        "description": "Get and search for trending images from Unsplash!",
+        "images": [
+          "images/programming/swift01.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/Unsplash-for-iOS",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          }
+        ]
+      },
+      {
+        "title": "Movies",
+        "startDate": "2020",
+        "description": "Search and discover for popular, upcoming and top rated moviesSearch and discover for popular, upcoming and top rated movies.",
+        "images": [
+          "images/programming/swift.jpeg"
+        ],
+        "url": "https://github.com/TarokhDev2020/Movies-for-iOS",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          }
+        ]
+      },
+      {
+        "title": "FlashChat",
+        "startDate": "2020",
+        "description": "A Modern one to one chat application using Firebase.",
+        "images": [
+          "images/programming/swift01.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/FlashChat-for-iOS",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Covid 19 Tracker - SwiftUI",
+        "startDate": "2020",
+        "description": "Track and get the latest news about covid-19 pandemic such as how many people recovered or died",
+        "images": [
+          "images/programming/swift.jpeg"
+        ],
+        "url": "https://github.com/TarokhDev2020/Covid-19-for-SwiftUI",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          }
+        ]
+      },
+      {
+        "title": "ContactKeeper-MERN",
+        "startDate": "2020",
+        "description": "Contact manager using React hooks & context",
+        "images": [
+          "images/programming/mern01.jpeg"
+        ],
+        "url": "https://github.com/TarokhDev2020/ContactKeeper-MERN",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "DevConnector-MERN",
+        "startDate": "2020",
+        "description": "This is a MERN stack application. It is a small social network app that includes authentication, profiles and forum posts.",
+        "images": [
+          "images/programming/mern.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/DevConnector-MERN",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "ExpenseTracker-MERN",
+        "startDate": "2020",
+        "description": "Manage and track your expenses",
+        "images": [
+          "images/programming/mern01.jpeg"
+        ],
+        "url": "https://github.com/TarokhDev2020/ExpenseTracker-MERN",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "ProShop-MERN",
+        "startDate": "2020",
+        "description": "How to develope a fully complete ecommerce application with an admin panel to manage products",
+        "images": [
+          "images/programming/mern.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/ProShop-MERN",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "ITLogger-React",
+        "startDate": "2020",
+        "description": "React app to track IT department tasks and issues. Uses JSON-Server as a mock backend",
+        "images": [
+          "images/programming/react_app.jpeg"
+        ],
+        "url": "https://github.com/TarokhDev2020/ITLogger-React",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-vscode-plain",
+            "name": "VSCode"
+          }
+        ]
+      },
+      {
+        "title": "Ecommerce-Django",
+        "startDate": "2020",
+        "description": "How to develop a fully complete ecommerce application with an admin panel to manage products",
+        "images": [
+          "images/programming/python.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/Ecommerce-Django-React",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
+        "title": "RealEstate-Django",
+        "startDate": "2020",
+        "description": "Real estate listings with an admin panel",
+        "images": [
+          "images/programming/python.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/RealEstate-Django",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
+        "title": "Pollster-Django",
+        "startDate": "2020",
+        "description": "Polling app built with Django",
+        "images": [
+          "images/programming/python.png"
+        ],
+        "url": "https://github.com/TarokhDev2020/Pollster-Django",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Achareh",
+        "title": "iOS Developer & Fontend Developer",
+        "years": "09.2021 - 01.2022",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Rest API",
+          "NodeJs",
+          "Express",
+          "MongoDB",
+          "MERN"
+        ]
+      },
+      {
+        "company": "Basalam",
+        "title": "iOS Developer",
+        "years": "09.2020 - 04.2021",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Rest API",
+          "Python",
+          "Django"
+        ]
+      },
+      {
+        "company": "Planoly",
+        "title": "iOS Developer",
+        "years": "10.2019 - 05.2020",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Rest API",
+          "NodeJS"
+        ]
+      },
+      {
+        "company": "Shamsipour Technical University",
+        "title": "iOS Developer",
+        "years": "02.2019 - 07.2020",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Alamofire",
+          "Rest API",
+          "PHP",
+          "Laravel"
+        ]
+      }
+    ]
+  }

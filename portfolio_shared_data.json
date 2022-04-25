@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "name": "Tarokh Mohammadi",
+      "titles": [ "iOS Developer", "Full Stack Developer", "Dev Team lead"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/TarokhDev2020",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "user.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Swift",
+          "class": "devicon-swift-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "Kotlin",
+          "class": "devicon-kotlin-plain",
+          "level": "80"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "90"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "90"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "90"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "90"
+        },
+        {
+          "name": "Javascript",
+          "class": "devicon-javascript-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "85"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }
