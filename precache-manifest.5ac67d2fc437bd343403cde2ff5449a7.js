@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "209ec354130b63290efd9f87d8f3e517",
+    "revision": "9ee766c6fa241a61bc2de32aac7abc4c",
     "url": "/tarokh-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarokh-portfolio/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "a6d1d1f4b566d1a2c54b",
+    "revision": "2aa10e03c3bd8ca0319a",
     "url": "/tarokh-portfolio/static/css/main.06748f79.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarokh-portfolio/static/js/2.44ae7e6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6d1d1f4b566d1a2c54b",
-    "url": "/tarokh-portfolio/static/js/main.ccb09316.chunk.js"
+    "revision": "2aa10e03c3bd8ca0319a",
+    "url": "/tarokh-portfolio/static/js/main.fb8e9465.chunk.js"
   },
   {
     "revision": "8dd2ef59729814f4b358",
