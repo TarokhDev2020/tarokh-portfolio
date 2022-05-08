@@ -335,26 +335,9 @@
     ],
     "experience": [
       {
-        "company": "Achareh",
-        "title": "iOS Developer & Fontend Developer",
-        "years": "09.2021 - 01.2022",
-        "mainTech": [
-          "Swift"
-        ],
-        "technologies": [
-          "Xcode",
-          "Swift",
-          "Rest API",
-          "NodeJs",
-          "Express",
-          "MongoDB",
-          "MERN"
-        ]
-      },
-      {
-        "company": "Basalam",
+        "company": "Hamyan",
         "title": "iOS Developer",
-        "years": "09.2020 - 04.2021",
+        "years": "09.2017 - 01.2018",
         "mainTech": [
           "Swift"
         ],
@@ -367,9 +350,9 @@
         ]
       },
       {
-        "company": "Planoly",
+        "company": "Pulsein",
         "title": "iOS Developer",
-        "years": "10.2019 - 05.2020",
+        "years": "04.2018 - 07.2018",
         "mainTech": [
           "Swift"
         ],
@@ -377,13 +360,43 @@
           "Xcode",
           "Swift",
           "Rest API",
-          "NodeJS"
+          "Javascript",
+          "NodeJs",
+          "Express"
+        ]
+      },
+      {
+        "company": "Internet Television",
+        "title": "iOS Developer",
+        "years": "05.2018 - 02.2019",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Rest API"
+        ]
+      },
+      {
+        "company": "Basalam",
+        "title": "iOS Developer",
+        "years": "04.2019 - 09.2019",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Rest API",
+          "Python",
+          "Django"
         ]
       },
       {
         "company": "Shamsipour Technical University",
         "title": "iOS Developer",
-        "years": "02.2019 - 07.2020",
+        "years": "10.2019 - 12.2019",
         "mainTech": [
           "Swift"
         ],
