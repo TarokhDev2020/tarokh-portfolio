@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarokh-portfolio/precache-manifest.620c5c480c3cb792a90166ea821ccce3.js"
+  "/tarokh-portfolio/precache-manifest.895046c4ce7072e470709de0fdd6950e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tarokh-portfolio/static/css/main.06748f79.chunk.css",
-    "main.js": "/tarokh-portfolio/static/js/main.4f2ac341.chunk.js",
-    "main.js.map": "/tarokh-portfolio/static/js/main.4f2ac341.chunk.js.map",
+    "main.js": "/tarokh-portfolio/static/js/main.d7b37399.chunk.js",
+    "main.js.map": "/tarokh-portfolio/static/js/main.d7b37399.chunk.js.map",
     "runtime-main.js": "/tarokh-portfolio/static/js/runtime-main.56a7cbe4.js",
     "runtime-main.js.map": "/tarokh-portfolio/static/js/runtime-main.56a7cbe4.js.map",
     "static/css/2.d64471e2.chunk.css": "/tarokh-portfolio/static/css/2.d64471e2.chunk.css",
     "static/js/2.44ae7e6a.chunk.js": "/tarokh-portfolio/static/js/2.44ae7e6a.chunk.js",
     "static/js/2.44ae7e6a.chunk.js.map": "/tarokh-portfolio/static/js/2.44ae7e6a.chunk.js.map",
     "index.html": "/tarokh-portfolio/index.html",
-    "precache-manifest.620c5c480c3cb792a90166ea821ccce3.js": "/tarokh-portfolio/precache-manifest.620c5c480c3cb792a90166ea821ccce3.js",
+    "precache-manifest.895046c4ce7072e470709de0fdd6950e.js": "/tarokh-portfolio/precache-manifest.895046c4ce7072e470709de0fdd6950e.js",
     "service-worker.js": "/tarokh-portfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/tarokh-portfolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.06748f79.chunk.css.map": "/tarokh-portfolio/static/css/main.06748f79.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.44ae7e6a.chunk.js",
     "static/css/main.06748f79.chunk.css",
-    "static/js/main.4f2ac341.chunk.js"
+    "static/js/main.d7b37399.chunk.js"
   ]
 }
