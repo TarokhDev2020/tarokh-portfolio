@@ -335,9 +335,77 @@
     ],
     "experience": [
       {
-        "company": "Hamyan",
+        "company": "Aviva Health",
         "title": "iOS Developer",
-        "years": "09.2017 - 01.2018",
+        "years": "11.2021 - 04.2022",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Alamofire",
+          "Rest API",
+          "JSON",
+          "Javascript",
+          "Node.js"
+        ]
+      },
+      {
+        "company": "Cars24 UAE",
+        "title": "Senior iOS Developer",
+        "years": "01.2021 - 06.2021",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Alamofire",
+          "Rest API",
+          "JSON",
+          "Javascript",
+          "Node.js"
+        ]
+      },
+      {
+        "company": "Buffer",
+        "title": "Senior iOS Developer",
+        "years": "11.2019 - 02.2020",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Alamofire",
+          "JSON",
+          "Rest API",
+          "Python",
+          "Django"
+        ]
+      },
+      {
+        "company": "Shamsipour Technical University",
+        "title": "iOS Developer",
+        "years": "10.2019 - 12.2019",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "Alamofire",
+          "JSON",
+          "Rest API",
+          "PHP",
+          "Laravel"
+        ]
+      },
+      {
+        "company": "Basalam",
+        "title": "iOS Developer",
+        "years": "04.2019 - 09.2019",
         "mainTech": [
           "Swift"
         ],
@@ -345,8 +413,23 @@
           "Xcode",
           "Swift",
           "Rest API",
+          "JSON",
           "Python",
           "Django"
+        ]
+      },
+      {
+        "company": "Internet Television",
+        "title": "iOS Developer",
+        "years": "05.2018 - 02.2019",
+        "mainTech": [
+          "Swift"
+        ],
+        "technologies": [
+          "Xcode",
+          "Swift",
+          "JSON",
+          "Rest API"
         ]
       },
       {
@@ -366,22 +449,9 @@
         ]
       },
       {
-        "company": "Internet Television",
+        "company": "Hamyan",
         "title": "iOS Developer",
-        "years": "05.2018 - 02.2019",
-        "mainTech": [
-          "Swift"
-        ],
-        "technologies": [
-          "Xcode",
-          "Swift",
-          "Rest API"
-        ]
-      },
-      {
-        "company": "Basalam",
-        "title": "iOS Developer",
-        "years": "04.2019 - 09.2019",
+        "years": "09.2017 - 01.2018",
         "mainTech": [
           "Swift"
         ],
@@ -391,22 +461,6 @@
           "Rest API",
           "Python",
           "Django"
-        ]
-      },
-      {
-        "company": "Shamsipour Technical University",
-        "title": "iOS Developer",
-        "years": "10.2019 - 12.2019",
-        "mainTech": [
-          "Swift"
-        ],
-        "technologies": [
-          "Xcode",
-          "Swift",
-          "Alamofire",
-          "Rest API",
-          "PHP",
-          "Laravel"
         ]
       }
     ]
